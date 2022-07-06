@@ -1,0 +1,29 @@
+Videos list:
+  ✔ 00 - Intro - 1m @done (22-06-01 17:09)
+  ✔ 01 - Setting up - 10m @done (22-06-01 17:09)
+  ✔ 02 - Utility First Wkflow - 12m @done (22-06-01 17:09)
+  ✔ 03 - Resp-ve Design - 19m @done (22-06-02 20:35)
+  ✔ 04 - States - 7m @done (22-06-17 16:32)
+  ✔ 05 - Apply - 10m @done (22-06-24 13:41)
+  ✔ 06 - Reusable - 10m  @done (22-07-06 01:02)
+    ✔ end creation of data (5 items) @done (22-07-01 14:59)
+    ✔ upload photos (6 items) @done (22-07-01 14:59)
+    ✔ output values to simple template @done (22-07-06 00:56)
+    ✔ style template @done (22-07-06 00:57)
+    ✔ style sections @done (22-07-06 01:02)
+    ✔ watch to the end @done (22-07-06 01:02)
+  ☐ 07 - Customizing - 12m
+  ☐ 08 - Optimizing - 15m
+
+Timeline:
+  01 02  03  04 05 06  07  08
+.|--|--|----|--|--|--|---|---|   ~100m
+                     ^
+          69m        |  27m
+To Start:
+  Use second workspace
+  Browser + Sublime
+  Start *vite*
+      npm run dev
+  Start rebuild/watch
+      npx tailwindcss build -i css/sample.css -o build/main.css --watch

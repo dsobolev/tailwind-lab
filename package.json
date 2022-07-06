@@ -1,0 +1,15 @@
+{
+  "name": "tw-sampl",
+  "version": "1.0.0",
+  "description": "Project to try TailwindCSS out",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.9"
+  },
+  "author": "me",
+  "license": "ISC"
+}
