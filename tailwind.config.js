@@ -14,6 +14,9 @@ module.exports = {
                     light: "#63bebf",
                 },
                 //brandgrey: "#556d75"
+            },
+            fontFamily: {
+                headline: "Poppins, sans-serif",
             }
         },
     },
