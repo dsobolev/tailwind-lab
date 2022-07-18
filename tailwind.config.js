@@ -4,13 +4,13 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                brandred: {
+                brandRed: {
                     DEFAULT: "#e67c64",
                     light: "#e38c7d",
                     dark: "#e06448",
                 },
-                brandblue: {
-                    DEFAULT: "#4caeae",
+                brandBlue: {
+                    DEFAULT: "#0da3a8",
                     light: "#63bebf",
                 },
                 //brandgrey: "#556d75"

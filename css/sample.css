@@ -9,7 +9,7 @@
   
   .btn-red {
     /*@apply bg-red-400 text-white hover:bg-red-300 active:bg-red-500 focus:ring-red-400;*/
-    @apply bg-brandred text-white hover:bg-brandred-light active:bg-brandred-dark focus:ring-brandred;
+    @apply bg-brandRed text-white hover:bg-brandRed-light active:bg-brandRed-dark focus:ring-brandRed;
   }
   
   .btn-gray {
