@@ -12,18 +12,19 @@ Videos list:
     ✔ style template @done (22-07-06 00:57)
     ✔ style sections @done (22-07-06 01:02)
     ✔ watch to the end @done (22-07-06 01:02)
-  ☐ 07 - Customizing - 12m @started(22-07-15 14:59)
+  ✔ 07 - Customizing - 12m @started(22-07-15 14:59) @done (22-07-18 15:55) @lasted(3 days, 0:56)
   ☐ 08 - Optimizing - 15m
 
 Timeline:
   01 02  03  04 05 06  07  08
 .|--|--|----|--|--|--|---|---|   ~100m
-                       ^
-             74m       |  22m
+                         ^
+            81m          | 15m
 
-blue-ish -> #4caeae
-red-ish  -> #e67c64
-grey-ish -> #556d75
+Logo colors
+  blue-ish -> #4caeae
+  red-ish  -> #e67c64
+  grey-ish -> #556d75
 
 To Start:
   Use second workspace
