@@ -7,9 +7,12 @@ module.exports = {
                 brandred: {
                     DEFAULT: "#e67c64",
                     light: "#e38c7d",
-                    dark: "#e06448"
+                    dark: "#e06448",
                 },
-                //brandblue: "#4caeae",
+                brandblue: {
+                    DEFAULT: "#4caeae",
+                    light: "#63bebf",
+                },
                 //brandgrey: "#556d75"
             }
         },
