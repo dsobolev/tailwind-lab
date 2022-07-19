@@ -4,7 +4,8 @@
   "description": "Project to try TailwindCSS out",
   "main": "index.html",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build" // minify, purge - all is here
   },
   "devDependencies": {
     "tailwindcss": "^3.0.24",
